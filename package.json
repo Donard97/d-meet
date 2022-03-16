@@ -18,9 +18,14 @@
   },
   "homepage": "https://github.com/Donard97/d-meet#readme",
   "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
     "cors": "^2.8.5",
     "express": "^4.17.3",
     "nodemon": "^2.0.15",
-    "socket.io": "^4.4.1"
+    "react-copy-clipboard": "^2.0.1",
+    "simple-peer": "^9.11.1",
+    "socket.io": "^4.4.1",
+    "socket.io-client": "^4.4.1"
   }
 }
